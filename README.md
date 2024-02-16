@@ -1,4 +1,4 @@
-# Rick Egdorf 
+# API Document Portfolio
 
 *Senior Technical Writer specializing in API Reference Documentation*
 
