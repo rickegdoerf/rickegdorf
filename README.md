@@ -66,7 +66,7 @@ Have you ever experienced bad documentation? Whether it's assembling your child'
 
 ## API Field Definitions Generated from Unit Test Field Descriptor JSON Files
 
-The following example shows API field definitions coded into the unit test field descriptor JSON file. This technique represents a component of a highly efficient and collaborative methodology used to generate accurate, real-time documenation at code deployment. By making Technical Writing and Engineering teams required pull request approvers ensures collaboration and accurate documentation. 
+The following example shows how I partnered with Engineering to implement a highly efficient and collaborative methodology that generated accurate, real-time API documenation at code deployment. API field definitions are coded into the unit test field descriptor JSON file. Technical Writing and Engineering teams are required pull request approvers, which ensures collaboration and accurate documentation. 
 
 **Sample Unit Test Descriptor File**
 
@@ -112,7 +112,7 @@ Following is the data pulled directly from the key value pairs to build the docu
 
 ## Error Message Examples
 
-Error messages can be clarified, made more useful, and less frustrating to the user by explaining what happened, why it happened, and a solution. If space is limited, word the error message so that those key points are implied.
+Error messages can more useful and less frustrating by explaining what happened, why it happened, and a solution. If space is limited, explain the error message so that those key points are implied.
 
 |Ambiguous Error Message |More Useful Error Message |
 |---| ---|
