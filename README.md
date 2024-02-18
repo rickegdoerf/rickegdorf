@@ -43,7 +43,7 @@ Have you ever experienced bad documentation? Whether it's assembling your child'
 
 **Field Definitions Table**
 
-|Object |Ambiguous Definition |Useful, Descriptive Definition |
+|Object |Uninformative, Ambiguous Definition |Useful, Descriptive Definition |
 |---|---|---|
 |addressList  |Address data  |An object that contains details about the client's address.  |
 |addressList.clientName |Client name  |Name of the client.  |
