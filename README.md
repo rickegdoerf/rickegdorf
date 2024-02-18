@@ -66,7 +66,7 @@ Have you ever experienced bad documentation? Whether it's assembling your child'
 
 ## API Field Definitions Generated from Unit Test Field Descriptor JSON Files
 
-The following example shows how I partnered with Engineering to implement a highly efficient and collaborative methodology that generated accurate, real-time API documenation at code deployment. API field definitions are coded into the unit test field descriptor JSON file. Technical Writing and Engineering teams are required pull request approvers, which ensures collaboration and accurate documentation. 
+The following example shows how I partnered with Engineering to implement a highly efficient and collaborative methodology that generated accurate, real-time API documenation at code deployment. API field definitions were coded into the unit test field descriptor JSON file. Technical Writing and Engineering teams were required pull request approvers, which ensured collaboration and accurate documentation. 
 
 **Sample Unit Test Descriptor File**
 
