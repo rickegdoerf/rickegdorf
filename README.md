@@ -112,7 +112,7 @@ Following is the data pulled directly from the key value pairs to build the docu
 
 ## Error Message Examples
 
-Error messages can more useful and less frustrating by explaining what happened, why it happened, and a solution. If space is limited, explain the error message so that those key points are implied.
+Error messages can be more useful and less frustrating by explaining what happened, why it happened, and a solution. If space is limited, explain the error message so that those key points are implied.
 
 |Ambiguous Error Message |More Useful Error Message |
 |---| ---|
