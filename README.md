@@ -77,7 +77,7 @@ The following example shows how I partnered with Engineering to implement a high
     "type": "object",
     "length": "",
     "required": true,
-    ="description": "An object that contains information about the request."=
+    "description": "An object that contains information about the request."
   },
   {
     "path": "requestData.submitterID",
